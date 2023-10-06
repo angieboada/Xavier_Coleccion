@@ -1,0 +1,26 @@
+.cabecera{
+
+    background-color: black;
+ color:aliceblue
+
+}
+
+.body {
+    background-color: #fc346f;
+}
+
+.cabecera a{
+
+color: aliceblue;
+text-decoration: none;
+margin:auto;
+padding: 2px;
+float: left;
+text-align: center;
+list-style-type: disc;
+
+}
+.footer{
+    text-align: center;
+    padding: 30px;
+   }

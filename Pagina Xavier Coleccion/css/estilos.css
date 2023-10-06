@@ -1,0 +1,53 @@
+
+
+.cabecera{
+
+      background-color: black;
+   color:aliceblue
+
+}
+
+.cabecera a{
+
+color: aliceblue;
+text-decoration: none;
+margin:auto;
+padding: 10px 2px;
+float: left;
+text-align: center;
+list-style-type: disc;
+
+}
+
+.container{
+margin-bottom: 20px;
+display: inline;
+
+}
+
+
+.container1{
+display: inline;
+
+}
+
+.footer{
+ text-align: center;
+ padding: 30px;
+}
+.card-title {
+   margin-bottom: var(--bs-card-title-spacer-y);
+   text-align: center;
+}
+p {
+   font-size: larger;
+   margin-top: 0;
+   margin-bottom: 1rem;
+}
+
+
+
+
+
+
+
